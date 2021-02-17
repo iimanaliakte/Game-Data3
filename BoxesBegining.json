@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Fortnite",
+        "icon": "https://images-na.ssl-images-amazon.com/images/I/7196bHbT1ZL._SY450_.jpg",
+        "id": "1"
+    },
+    {
+        "name": "Call of Duty",
+        "icon": "https://static.wikia.nocookie.net/callofduty/images/1/15/ModernWarfare_Artwork_MW.jpg/revision/latest/top-crop/width/360/height/450?cb=20190530170954",
+        "id": "2"
+    },
+    {
+        "name": "Valorant",
+        "icon": "https://static.wikia.nocookie.net/valorant/images/c/c4/Raze_artwork.png/revision/latest/top-crop/width/360/height/450?cb=20200602020217",
+        "id": "3"
+    },
+    {
+        "name": "GTA5",
+        "icon": "https://static.wikia.nocookie.net/yogscast/images/a/a5/Grand_Theft_Auto_V.png/revision/latest/top-crop/width/360/height/450?cb=20160703235415",
+        "id": "4"
+    },
+    {
+        "name": "Watch Dogs 5",
+        "icon": "https://static.wikia.nocookie.net/yogscast/images/d/d9/Watch_Dogs_box_art.jpg/revision/latest/top-crop/width/360/height/450?cb=20160705082312",
+        "id": "5"
+    }
+]

@@ -1,0 +1,80 @@
+#header-home{
+    margin-top: 10px;
+    text-align: center;;
+}
+.searchbar{
+    text-align: center;
+    margin-top: 20px;
+} 
+.searchbar input{
+    height: 40px;
+    width: 300px;
+    text-align: left;
+    padding-left: 10px;
+}
+.link-to{
+    /* position: absolute; */
+    background-color: rgb(199, 197, 197);
+    /* padding-left: 20px; */
+    /* padding-right: 20px; */
+    /* padding-top: 20px; */
+    padding-bottom: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    color: honeydew;
+    width: 80%;
+
+}
+
+
+
+.cards{
+    /* display: flex; */
+    justify-content: space-around;
+    display: grid; 
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3,1fr);
+    gap: 10px;
+    margin-bottom: 30px;
+    /* flex-direction: column;*/
+    /* margin-right: 50px; */
+}
+.Container{
+    text-align: center;
+    margin-right: 100px;    
+}
+@media only screen and (max-width: 1600px) {
+    .cards{
+        margin-right: 50px;
+    }
+  }
+  @media only screen and (max-width: 900px) {
+    .cards{
+        display: flex;
+        flex-direction: column;
+        margin-right: 0px;
+        margin-left: 20px;
+    }
+    /* .link-to{
+        width: 40%;
+    } */
+  }
+  @media only screen and (max-width: 600px) {
+   .cards{
+       margin-left: 0px;
+   }
+  }
+  @media only screen and (max-width: 460px) {
+    .cards{
+        margin-right: 100px;
+    }
+  }
+  @media only screen and (max-width: 470px) {
+    .cards{
+        margin-right: 100px;
+    }
+  }
